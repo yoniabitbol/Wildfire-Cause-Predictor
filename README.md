@@ -9,6 +9,10 @@
 ### Project summary report link:
 [Project Summary](https://docs.google.com/document/d/1sDv3xksV7pnLMhQkiMD0oe-1JXeBmPkOfG9xYf7Pmsw/edit?usp=sharing)
 
+### Presentation slides:
+[Project Presentation](https://docs.google.com/presentation/d/1NkgxsknHqhsuEY1kGC2okyA1OcKogbdt5zPLV-RYHP4/edit?usp=sharing)
+
+
 ## Abstract
 Our goal is to predict and classify the most possible cause of a wildfire given the detailed location, time, and other characteristics of the wildfire. We decide to apply the supervised machine learning method to solve this problem. The dataset we used can be found on Kaggle. It contains a spatial database of wildfires that occurred in the United States from 1992 to 2015. This data is originally generated to support the national Fire Program Analysis (FPA) system. In addition to the prediction task, we will compare the performance of different tree-based models in this classification task. The three models chosen are the Decision Tree, Random Forests, and Gradient Boosting Tree. The result will be evaluated and visualized by comparing accuracy, F1 score, confusion matrix, etc.
 
